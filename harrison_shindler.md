@@ -1,4 +1,4 @@
-Harrison Shindler
+[Harrison Shindler](harrison_shindler.md)
 
 Bugatti Veyron
 
