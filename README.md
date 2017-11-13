@@ -26,8 +26,8 @@ GitHub Foundations course exercises
 1. Rick Craven
 1. Shweta Sanghi
 1. Art Aquiro
+1. [Joseph Gay](joseph_gay.md)
 1. [Rich Jeantheau](rich_jeantheau.md)
-1. Joseph Gay
 1. Julio Cavero
 1. [Darin Burbrink](darin_burbrink.md)
 1. Suresh Penumala
