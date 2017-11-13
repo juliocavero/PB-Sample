@@ -17,7 +17,7 @@ GitHub Foundations course exercises
 1. Pete Guritza
 1. Tina Savopoulos
 1. Thirumalai Kumar
-1. Sam Smith
+1. [Sam Smith](Sam_Smith.md)
 1. Bob Kean
 1. [Richard Gibson](richard_gibson.md)
 1. Jonathan D Rice
