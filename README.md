@@ -9,8 +9,8 @@ GitHub Foundations course exercises
 1. [Scott Byrd](scott_byrd.md)
 1. Carol Anderson
 1. Raj Chilamula
+1. [Eric Nesheim](eric_nesheim.md)
 1. [Noah Mercer](noah_mercer.md)
-1. Eric C Nesheim
 1. Juan R Andrew
 1. [Mike Duggan](mike_duggan.md)
 1. Dan Rafferty
