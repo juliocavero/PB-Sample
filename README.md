@@ -14,7 +14,7 @@ GitHub Foundations course exercises
 1. Juan R Andrew
 1. Mike Duggan
 1. Dan Rafferty
-1. Pete Guritza
+[Pete Guritza](Pete_Guritza.md)
 1. Tina Savopoulos
 1. Thirumalai Kumar
 1. Sam Smith
