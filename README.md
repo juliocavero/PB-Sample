@@ -12,7 +12,7 @@ GitHub Foundations course exercises
 1. Noah Mercer
 1. Eric C Nesheim
 1. Juan R Andrew
-1. Mike Duggan
+1. [Mike Duggan](mike_duggan.md)
 1. Dan Rafferty
 1. Pete Guritza
 1. Tina Savopoulos
