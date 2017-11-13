@@ -1,7 +1,6 @@
 # github-foundations
 GitHub Foundations course exercises
 ## Roster
-1. [Mat Gookin](mat_gookin.md)
 1. [Dai McAtee](dai_mcatee.md)
 1. [Ben Smith](ben_smith.md)
 1. [Mat Gookin](mat_gookin.md)
