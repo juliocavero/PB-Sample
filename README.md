@@ -4,7 +4,7 @@ GitHub Foundations course exercises
 1. Dai McAtee
 1. [Ben Smith](ben_smith.md)
 1. Mat Gookin
-[Matt Golob](Matt_Golob.md)
+1. [Matt Golob](Matt_Golob.md)
 1. Dennis Moen
 1. Scott Byrd
 1. Carol Anderson
