@@ -5,7 +5,7 @@ GitHub Foundations course exercises
 1. Ben Smith
 1. Mat Gookin
 1. Matt Golob
-1. Dennis Moen
+1. Dennis Moen[Dennis Moen](dennis_moen.md)
 1. Scott Byrd
 1. Carol Anderson
 1. Raj Chilamula
