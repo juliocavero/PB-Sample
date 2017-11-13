@@ -7,7 +7,7 @@ GitHub Foundations course exercises
 1. [Matt Golob](Matt_Golob.md)
 1. [Dennis Moen](dennis_moen.md)
 1. [Scott Byrd](scott_byrd.md)
-1. Carol Anderson
+1. [Carol Anderson](carol_anderson.md)
 1. Raj Chilamula
 1. [Eric Nesheim](eric_nesheim.md)
 1. [Noah Mercer](noah_mercer.md)
