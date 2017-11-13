@@ -18,7 +18,7 @@ GitHub Foundations course exercises
 1. Tina Savopoulos
 1. Thirumalai Kumar
 1. Sam Smith
-1. Bob Kean
+1. [Bob Kean](bob_kean.md)
 1. Richard Gibson
 1. Jonathan D Rice
 1. Harrison Shindler
