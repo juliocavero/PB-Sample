@@ -28,7 +28,7 @@ GitHub Foundations course exercises
 1. Art Aquiro
 1. Rich Jeantheau
 1. Joseph Gay
-1. Julio Cavero
+1. [Julio Cavero](julio_cavero.md)
 1. Darin Burbrink
 1. Suresh Penumala
 1. Steve Worrel
