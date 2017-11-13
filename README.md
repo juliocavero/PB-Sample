@@ -4,8 +4,8 @@ GitHub Foundations course exercises
 1. [Dai McAtee] (dai_mcatee.md)
 1. [Ben Smith](ben_smith.md)
 1. Mat Gookin
-[Matt Golob](Matt_Golob.md)
-1. Dennis Moen
+1.[Matt Golob](Matt_Golob.md)
+1. [Dennis Moen](dennis_moen.md)
 1. [Scott Byrd](scott_byrd.md)
 1. Carol Anderson
 1. Raj Chilamula
@@ -22,7 +22,8 @@ GitHub Foundations course exercises
 1. [Jonathan D Rice](Jon_Rice.md)
 1. [Bob Kean](bob_kean.md)
 1. [Richard Gibson](richard_gibson.md)
-1. Harrison Shindler
+1. Jonathan D Rice
+1. [Harrison Shindler](harrison_shindler.md)
 1. John Coleman
 1. Rick Craven
 1. Shweta Sanghi
