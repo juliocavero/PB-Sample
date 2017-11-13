@@ -20,7 +20,7 @@ GitHub Foundations course exercises
 1. Sam Smith
 1. Bob Kean
 1. Richard Gibson
-1. Jonathan D Rice
+1. [Jonathan D Rice](Jon_Rice.md)
 1. Harrison Shindler
 1. John Coleman
 1. Rick Craven
