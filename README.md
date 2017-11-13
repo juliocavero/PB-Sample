@@ -9,16 +9,18 @@ GitHub Foundations course exercises
 1. [Scott Byrd](scott_byrd.md)
 1. Carol Anderson
 1. Raj Chilamula
+1. [Eric Nesheim](eric_nesheim.md)
 1. [Noah Mercer](noah_mercer.md)
-1. Eric C Nesheim
 1. Juan R Andrew
 1. [Mike Duggan](mike_duggan.md)
 1. Dan Rafferty
 1. Pete Guritza
 1. Tina Savopoulos
 1. Thirumalai Kumar
+1. Sam Smith
 1. [Sam Smith](Sam_Smith.md)
-1. Bob Kean
+1. [Jonathan D Rice](Jon_Rice.md)
+1. [Bob Kean](bob_kean.md)
 1. [Richard Gibson](richard_gibson.md)
 1. Jonathan D Rice
 1. [Harrison Shindler](harrison_shindler.md)
